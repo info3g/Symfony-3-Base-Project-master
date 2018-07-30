@@ -4,17 +4,17 @@ Symfony 3 Base Project
 Installed bundles and other stuff
 ---------------------------------
 
-- FriendsOfJeevika/FOSUserBundle
+- FriendsOfSymfony/FOSUserBundle
 - Your own UserBundle to extend from FosUserBundle (with createdAt and updatedAt extra fields added)
 - KnpLabs/KnpPaginatorBundle
 - Bootstrap 3 with horizontal login
 - Form templates
-- Jeevika Reverse Proxy configured to allow esi parts
+- Symfony Reverse Proxy configured to allow esi parts
 - phpunit/phpunit (with a symbolic link under your bin folder. Simply run './bin/phpunit')
 - Atlantic18/DoctrineExtensions (Slug generation)
 - twig/extensions (time_diff)
 - translation enabled in config
-- Jeevika/assetic-bundle installed and configured
+- Symfony/assetic-bundle installed and configured
 - doctrine/doctrine-fixtures-bundle
 - vich/uploader-bundle installed and configured (with an example)
 
