@@ -1,4 +1,4 @@
-Jeevika 3 Base Project
+Symfony 3 Base Project
 ======================
 
 Installed bundles and other stuff
